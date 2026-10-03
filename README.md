@@ -144,3 +144,6 @@ The project uses the **Toy Store E-Commerce Database** from the Maven Analytics 
 **Connor Irvine**  
 Data analytics and business intelligence portfolio project
 
+## Development Notes
+
+Generative AI was used as a supporting tool during portions of this project for troubleshooting, documentation, and implementation guidance. Analytical decisions, data validation, interpretation of results, and final project review were performed by the author.
