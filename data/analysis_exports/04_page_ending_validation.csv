@@ -1,0 +1,5 @@
+device_type,total_sessions,avg_pageviews_per_session,ending_result_error_check,order_complete_bool
+desktop,27805,7.00,"ORDER END ON THANK YOU PAGE",1
+desktop,299222,2.30,"WEBSITE VISIT NOT ENDING IN AN ORDER",0
+mobile,4508,7.00,"ORDER END ON THANK YOU PAGE",1
+mobile,141336,1.94,"WEBSITE VISIT NOT ENDING IN AN ORDER",0

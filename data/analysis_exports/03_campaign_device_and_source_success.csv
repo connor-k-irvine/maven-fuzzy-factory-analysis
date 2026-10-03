@@ -1,0 +1,12 @@
+utm_campaign,device_type,utm_source,conversion_rate_pct,session_count,order_count,revenue_usd,cogs_usd,gross_profit_usd,revenue_per_session
+brand,desktop,bsearch,9.86,6867,677,41645.31,15460.81,26184.50,6.06
+brand,mobile,bsearch,2.29,1047,24,1463.71,550.21,913.50,1.40
+brand,desktop,gsearch,10.54,19922,2100,126801.76,46973.76,79828.00,6.36
+brand,mobile,gsearch,3.07,13407,411,24928.92,9255.92,15673.00,1.86
+desktop_targeted,desktop,socialbook,5.15,5590,288,18516.10,6796.10,11720.00,3.31
+nonbrand,desktop,bsearch,7.56,47395,3584,211434.40,78955.40,132479.00,4.46
+nonbrand,mobile,bsearch,3.11,7514,234,14129.08,5272.08,8857.00,1.88
+nonbrand,desktop,gsearch,8.22,195155,16037,956016.90,356955.90,599061.00,4.90
+nonbrand,mobile,gsearch,3.18,87551,2785,168397.31,62800.81,105596.50,1.92
+pilot,desktop,socialbook,3.26,522,17,1157.76,416.76,741.00,2.22
+pilot,mobile,socialbook,0.83,4573,38,2585.47,943.97,1641.50,0.57

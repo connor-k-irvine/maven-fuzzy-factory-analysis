@@ -1,0 +1,13 @@
+device_type,max_funnel_stage,max_funnel_stage_desc,count_highest_funnel,pct_nonorders_by_device_type
+desktop,1,LANDING,134702,45.02
+desktop,2,"PRODUCT LISTING",29111,9.73
+desktop,3,"PRODUCT DETAIL",88059,29.43
+desktop,4,CART,22463,7.51
+desktop,5,SHIPPING,8970,3.00
+desktop,6,BILLING,15917,5.32
+mobile,1,LANDING,76938,54.44
+mobile,2,"PRODUCT LISTING",21906,15.50
+mobile,3,"PRODUCT DETAIL",27202,19.25
+mobile,4,CART,8006,5.66
+mobile,5,SHIPPING,3456,2.45
+mobile,6,BILLING,3828,2.71

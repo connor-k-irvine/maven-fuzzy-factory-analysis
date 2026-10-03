@@ -1,0 +1,17 @@
+product_id,product_name,utm_campaign,campaign_units,product_revenue,product_cogs,product_gross_profit,pct_product_units_by_campaign,pct_campaign_units_by_product
+1,"The Original Mr. Fuzzy",nonbrand,17192,859428.08,335072.08,524356.00,87.12,61.77
+1,"The Original Mr. Fuzzy",brand,2309,115426.91,45002.41,70424.50,11.70,57.30
+1,"The Original Mr. Fuzzy",desktop_targeted,199,9948.01,3878.51,6069.50,1.01,51.03
+1,"The Original Mr. Fuzzy",pilot,34,1699.66,662.66,1037.00,0.17,44.16
+2,"The Forever Love Bear",nonbrand,3961,237620.39,89082.89,148537.50,85.22,14.23
+2,"The Forever Love Bear",brand,612,36713.88,13763.88,22950.00,13.17,15.19
+2,"The Forever Love Bear",desktop_targeted,60,3599.40,1349.40,2250.00,1.29,15.38
+2,"The Forever Love Bear",pilot,15,899.85,337.35,562.50,0.32,19.48
+3,"The Birthday Sugar Panda",nonbrand,3291,151353.09,47686.59,103666.50,83.00,11.82
+3,"The Birthday Sugar Panda",brand,590,27134.10,8549.10,18585.00,14.88,14.64
+3,"The Birthday Sugar Panda",desktop_targeted,65,2989.35,941.85,2047.50,1.64,16.67
+3,"The Birthday Sugar Panda",pilot,19,873.81,275.31,598.50,0.48,24.68
+4,"The Hudson River Mini bear",nonbrand,3387,101576.13,32142.63,69433.50,85.08,12.17
+4,"The Hudson River Mini bear",brand,519,15564.81,4925.31,10639.50,13.04,12.88
+4,"The Hudson River Mini bear",desktop_targeted,66,1979.34,626.34,1353.00,1.66,16.92
+4,"The Hudson River Mini bear",pilot,9,269.91,85.41,184.50,0.23,11.69
